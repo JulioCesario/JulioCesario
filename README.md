@@ -1,8 +1,9 @@
 Oi, eu sou Julio Cesario, Bem vindo ao meu perfil GitHub!
 
-Sou estudante de Engenharia de Computação e focado no momento no desenvolvimento de aplicações web.
+Sou Engenheiro de Computação e focado no momento no desenvolvimento de aplicações web.
 
-Sempre entusiasmado com tecnologia, tive os primeiros contatos com linguagem de programação no ano de 2009, na época tive a oportunidade de escrever meus primeiros códigos em linguagem html e css, tive ainda a oportunidade de conhecer e aprender outras áreas da computação não ligadas a programação como Corel Draw, Auto Cad. Iniciei um curso técnico de computação onde tive a oportunidade de aprender um pouco de manutenção, lógica e programação em delphi. Agora, durante os estudos na faculdade pude navegar por diversas áreas da computação, porém, decidi focar no momento ao Front-end me desenvolver bem para depois passar para o Back-end, subir um degrau de cada vês, mas sem deixar de lado a conquista de novos desafios.
+Sempre entusiasmado com tecnologia, tive os primeiros contatos com linguagem de programação no ano de 2009, na época tive a oportunidade de escrever meus primeiros códigos em html e css, tive ainda a oportunidade de conhecer e aprender outras áreas da computação não ligadas a programação como Corel Draw, Auto Cad, Photoshop entre outras. Iniciei um curso técnico de computação onde tive a oportunidade de aprender um pouco de manutenção, lógica e programação em delphi. Durante os estudos na faculdade tive a oportunidade de navegar por diversas áreas da computação, conviver com outras pessoas na área a eprender muitu junto com eles nos diversos projetos que desenvolvemos junto.
+Agora o foco é trabalhar muito para adquirir cada dia mais experiência e alcançar novos desafios e claro, estudar diariamente para me manter sempre atualizado nas tecnologias.
 
 ### Contatos:
 
